@@ -1,5 +1,8 @@
 ## [Text To Voice Converter](https://github.com/sakshimunde18/Text-To-Voice-Converter/tree/main/lib)
 
+A few years ago, text-to-voice apps may have sounded like a far-fetched idea. However, with technology advancing rapidly, we now talk to computers and gadgets as if they’re another person. Voice recognition can help make life easier and has reduced multi-step tasks to a few simple lines.
+
+<hr>
 
 ## Index
 
@@ -10,6 +13,8 @@
 - [Objective](#objective)
 - [Scope](#scope)
 - [Limitation](#limitation)
+- [Future Scope](#future-scope)
+- [Conclusion](#conclusion)
 - [About Us](#about-us)
 
 
@@ -60,6 +65,21 @@ The present speech synthesis systems can be successfully used for a wide range o
 
 <hr>
 
+## Future Scope
+
+Text to speech converters is relatively new industry, but it is exploding with growth at the moment.  It is not only just about assisted reading, but it is becoming something bigger and more important as the days go by. Mixing text to speech converters and a machine learning how to speak and mimicking humans is going to lead to some next-level technology. Another wild reality is that it could possibly overthrow some forms of education.  The technology is already being used to help people with disabilities and not able to read, but it could advance even more.
+	Another wild reality is that it could possibly overthrow some forms of education.  The technology is already being used to help people with disabilities and not able to read, but it could advance even more. It could be a possibility that text to speech converters end up taking over the education system because it would be cheaper for a school to pay a converter than a full-time teacher employee!  Even though that would be a long way away before it would happen, it is still a crazy thought to ponder.
+	The only thing that we do right now is wait and see how the text to speech world is going to change.  Not only are the converters getting better with their methods, but the entire industry has the ability to make a lasting impact very soon.  Keep your eyes peeled to see which industries it will affect and how many lives it will impact.
+
+<hr>
+
+##  Conclusion
+
+
+Text to speech synthesis is a rapidly growing aspect of computer technology and is increasingly playing a more important role in the way we interact with the system and interfaces across a variety of platforms. We have identified the various operations and processes involved in text to speech synthesis. We have also developed a very simple and attractive graphical user interface which allows the user to type in his/her text provided in the text field in the application. Our system interfaces with a text to speech engine developed for American English. 
+Text to	 speech converters is relatively new industry, but it is exploding with growth at the moment.  It is not only just about assisted reading, but it is becoming something bigger and more important as the days go by. Mixing text to speech converters and a machine learning how to speak and mimicking humans is going to lead to some next-level technology. Another wild reality is that it could possibly overthrow some forms of education.  The technology is already being used to help people with disabilities and not able to read, but it could advance 
+
+<hr>
 
 ## About Us
 
@@ -71,8 +91,3 @@ Welcome to our project team! We are a group of four college students who are pas
 3.[Sakshi Munde(Member)](https://github.com/sakshimunde18)
 
 Together, we are a dynamic and collaborative team that believes in the power of learning, creativity, and innovation. We are excited to embark on this project and look forward to sharing our progress with you. Thank you for your support!
-                             
-
-
-
-
