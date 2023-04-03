@@ -90,7 +90,7 @@ Text to	 speech converters is relatively new industry, but it is exploding with 
 
 ## About Us
 
-Welcome to our project team! We are a group of four college students who are passionate about solving real-world problems. Our team is composed of individuals with diverse backgrounds, skill sets, and experiences, but we are united by our shared goal of creating innovative solutions that can make a positive impact on our community.
+Welcome to our project team! We are a group of three college students who are passionate about solving real-world problems. Our team is composed of individuals with diverse backgrounds, skill sets, and experiences, but we are united by our shared goal of creating innovative solutions that can make a positive impact on our community.
 
 <strong> Team Members :-</strong><br>
 1.[Rohit Waghmare (Member)](https://github.com/Rohitwaghmare7)<br>
