@@ -2,6 +2,13 @@
 
 A few years ago, text-to-voice apps may have sounded like a far-fetched idea. However, with technology advancing rapidly, we now talk to computers and gadgets as if they’re another person. Voice recognition can help make life easier and has reduced multi-step tasks to a few simple lines.
 
+
+
+![Screenshot 2023-04-03 192256](https://user-images.githubusercontent.com/92391500/229530546-fd9f9b03-c6d9-4600-8c7b-c9374ec41717.png)
+
+
+
+
 <hr>
 
 ## Index
