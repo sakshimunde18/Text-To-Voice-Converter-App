@@ -88,8 +88,8 @@ Text to	 speech converters is relatively new industry, but it is exploding with 
 Welcome to our project team! We are a group of three college students who are passionate about solving real-world problems. Our team is composed of individuals with diverse backgrounds, skill sets, and experiences, but we are united by our shared goal of creating innovative solutions that can make a positive impact on our community.
 
 <strong> Team Members :-</strong><br>
-1.[Rohit Waghmare (Member)](https://github.com/Rohitwaghmare7)<br>
-2.[Rafat Naaz(Leader)](https://github.com/RafatNaaz25)<br>
+1.[Rohit Waghmare (Leader)](https://github.com/Rohitwaghmare7)<br>
+2.[Rafat Naaz(Member)](https://github.com/RafatNaaz25)<br>
 3.[Sakshi Munde(Member)](https://github.com/sakshimunde18)
 
 Together, we are a dynamic and collaborative team that believes in the power of learning, creativity, and innovation. We are excited to embark on this project and look forward to sharing our progress with you. Thank you for your support!
