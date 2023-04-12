@@ -17,7 +17,7 @@ A few years ago, text-to-voice apps may have sounded like a far-fetched idea. Ho
 - [Conclusion](#conclusion)
 - [About Us](#about-us)
 
-
+<hr>
 
 ![Screenshot 2023-04-03 192256](https://user-images.githubusercontent.com/92391500/229530546-fd9f9b03-c6d9-4600-8c7b-c9374ec41717.png)
 <hr>
